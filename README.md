@@ -1,1 +1,1 @@
-
+Created a Password Generator system using basic Python. This system allows yoou to generate highly secured, randomly generated passowrds for you to use while setting a password for any of the accounts. The randomly generated password is a combination of uppercase, lowercase alphabets, digits and special characters. 
